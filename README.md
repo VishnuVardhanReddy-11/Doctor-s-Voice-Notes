@@ -1,6 +1,6 @@
 # Doctor-s-Voice-Notes
 
-This is a web application designed for doctors to easily convert voice notes into text. It uses browser speech recognition to transcribe spoken words into written notes, helping doctors quickly document patient information.
+This is a web application designed for doctors to easily convert voice notes into text. It uses browser speech recognition to convert spoken words into written notes, helping doctors quickly document patient information.
 
 # Technologies Used: 
 HTML , CSS, Javascript
